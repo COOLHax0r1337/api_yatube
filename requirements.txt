@@ -2,7 +2,6 @@ asgiref==3.5.2
 attrs==22.1.0
 Django==3.2
 djangorestframework==3.12.4
-dotenv==16.0.3
 iniconfig==1.1.1
 packaging==21.3
 Pillow==9.3.0
